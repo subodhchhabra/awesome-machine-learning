@@ -1,6 +1,6 @@
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)
 Also, a listed repository should be deprecated if:
@@ -8,9 +8,15 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+Further resources:
 
-For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+
+* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+
+* For a list of blogs on data science and  machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+
+* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
 ## Table of Contents
 
@@ -187,6 +193,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [Warp-CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
 * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+* [LKYDeepNN](https://github.com/mosdeo/LKYDeepNN) -  A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
@@ -338,6 +345,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="java-nlp"></a>
 #### Natural Language Processing
 * [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
+* [IRIS](https://github.com/cortical-io/Public/tree/master/iris) - [Cortical.io's](http://cortical.io) FREE NLP, Retina API Analysis Tool (written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0)
 * [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
@@ -466,6 +474,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 * [Brain](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
+* [Brain.js](https://github.com/harthur-org/brain.js) - Neural networks in JavaScript - continued community fork of [Brain](https://github.com/harthur/brain)
 * [Bayesian-Bandit](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser
 * [kNear](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
@@ -799,6 +808,7 @@ be
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
 * [PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 * [face_recognition](https://github.com/ageitgey/face_recognition) - Face recognition library that recognize and manipulate faces from Python or from the command line
+* [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
